@@ -1,0 +1,7 @@
+
+
+GET     /                             com.sony.controllers.ProductController.storeFileXml
+GET     /fileXml                      com.sony.controllers.ProductController.storeFileXml
+GET     /fileApi                      com.sony.controllers.ProductController.storeFileApi
+GET     /dbXml                        com.sony.controllers.ProductController.storeDbXml
+GET     /dbApi                        com.sony.controllers.ProductController.storeDbApi

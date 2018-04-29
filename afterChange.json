@@ -1,0 +1,71 @@
+{
+  "RatingsOnlyReviewCount": 0,
+  "FirstSubmissionTime": "2011-03-31T03:28:22.000+00:00",
+  "LastSubmissionTime": "2017-01-28T20:02:42.000+00:00",
+  "AverageOverallRating": 4.125,
+  "NotRecommendedCount": 6,
+  "TotalReviewCount": 64,
+  "HelpfulVoteCount": 616,
+  "ContextDataDistributionOrder": [
+    "Age",
+    "Gender"
+  ],
+  "ContextDataDistribution": {
+    "Age": {
+      "Id": "Age",
+      "Values": [
+        {
+          "Count": 1,
+          "Value": "45to54"
+        },
+        {
+          "Count": 1,
+          "Value": "65orOver"
+        }
+      ]
+    },
+    "Gender": {
+      "Id": "Gender",
+      "Values": [
+        {
+          "Count": 2,
+          "Value": "Male"
+        },
+        {
+          "Count": 5,
+          "Value": "Female"
+        }
+      ]
+    }
+  },
+  "FeaturedReviewCount": 0,
+  "RecommendedCount": 52,
+  "NotHelpfulVoteCount": 434,
+  "RatingDistribution": [
+    {
+      "RatingValue": 5,
+      "Count": 32
+    },
+    {
+      "RatingValue": 4,
+      "Count": 20
+    },
+    {
+      "RatingValue": 1,
+      "Count": 5
+    },
+    {
+      "RatingValue": 3,
+      "Count": 5
+    },
+    {
+      "RatingValue": 2,
+      "Count": 2
+    }
+  ],
+  "SecondaryRatingsAveragesOrder": [],
+  "TagDistribution": {},
+  "OverallRatingRange": 5,
+  "SecondaryRatingsAverages": {},
+  "TagDistributionOrder": []
+}

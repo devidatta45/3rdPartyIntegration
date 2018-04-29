@@ -1,0 +1,71 @@
+{
+  "AverageOverallRating" : "4.125",
+  "NotRecommendedCount" : "6",
+  "OverallRatingRange" : "5",
+  "RatingsOnlyReviewCount" : "0",
+  "RecommendedCount" : "36",
+  "TotalReviewCount" : "64",
+  "AverageRatingValues" : "",
+  "LocaleDistribution" : {
+    "LocaleDistributionItem" : {
+      "DisplayLocale" : "en_US",
+      "ReviewStatistics" : {
+        "AverageOverallRating" : "4.125",
+        "NotRecommendedCount" : "6",
+        "OverallRatingRange" : "5",
+        "RatingsOnlyReviewCount" : "0",
+        "RecommendedCount" : "36",
+        "TotalReviewCount" : "64",
+        "AverageRatingValues" : "",
+        "RatingDistribution" : {
+          "RatingDistributionItem" : [
+            {
+              "RatingValue" : "1",
+              "Count" : "5"
+            },
+            {
+              "RatingValue" : "2",
+              "Count" : "2"
+            },
+            {
+              "RatingValue" : "3",
+              "Count" : "5"
+            },
+            {
+              "RatingValue" : "4",
+              "Count" : "20"
+            },
+            {
+              "RatingValue" : "5",
+              "Count" : "32"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "RatingDistribution" : {
+    "RatingDistributionItem" : [
+      {
+        "RatingValue" : "1",
+        "Count" : "5"
+      },
+      {
+        "RatingValue" : "2",
+        "Count" : "2"
+      },
+      {
+        "RatingValue" : "3",
+        "Count" : "5"
+      },
+      {
+        "RatingValue" : "4",
+        "Count" : "20"
+      },
+      {
+        "RatingValue" : "5",
+        "Count" : "32"
+      }
+    ]
+  }
+}
